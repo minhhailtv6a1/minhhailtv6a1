@@ -3,7 +3,7 @@
 <img data-importer="snake" src="https://raw.githubusercontent.com/minhhailtv6a1/minhhailtv6a1/snake-output/snake.svg" alt="Snake animation" />
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://yt3.ggpht.com/d190Y1Q2yswI-za3xGX7588gN0oF4v4E2tD2uXGb6CcgP64LBOZ-4MALPphajJe-RNwndcXchlqWhg=s1600-nd-v1"  />
+  <img data-importer="image" height="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
 </div>
 
 ###
