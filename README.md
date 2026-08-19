@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Hai Tran
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Hai+Tran.)](https://git.io/typing-svg)
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/minhhailtv6a1/minhhailtv6a1/snake-output/snake.svg" alt="Snake animation" />
+
+###
 
 ### AI Engineer | Data Engineer | Machine Learning Enthusiast
 
@@ -72,7 +76,7 @@ I want to understand the entire system:
 ## Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,typescript,javascript,sql" />
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,javascript,sql" />
 </p>
 
 **Python · C++ · C# · TypeScript · JavaScript · SQL**
