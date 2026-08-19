@@ -2,6 +2,10 @@
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/minhhailtv6a1/minhhailtv6a1/snake-output/snake.svg" alt="Snake animation" />
 
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://yt3.ggpht.com/d190Y1Q2yswI-za3xGX7588gN0oF4v4E2tD2uXGb6CcgP64LBOZ-4MALPphajJe-RNwndcXchlqWhg=s1600-nd-v1"  />
+</div>
+
 ###
 
 ### AI Engineer | Data Engineer | Machine Learning Enthusiast
@@ -254,15 +258,15 @@ I'm always open to:
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/minhhailtv6a1">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/tran-hai-53985a3b6">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:minhhailtv6a1@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
